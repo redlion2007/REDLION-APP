@@ -14,7 +14,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 <img src="./Android/database/K.Prabhasha-1.gif" alt="Loading..." width="310"/>
 
-> Image Designed By  ==(KUSHALYA NETHMIKA)== RED DRAGON TEAM
+> Image Designed By  ==(KUSHALYA NETHMIKA)== RED LION TEAM
 
 > Created By ==(DOPE JANIYAH)== RED LION TEAM
 
@@ -97,7 +97,7 @@ Recommended WhatsApp👇
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/380944814219"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
+<a href="https://wa.me/94727785006"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
 </p>
 
 </details>
@@ -106,7 +106,7 @@ Recommended WhatsApp👇
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
 
-## 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐
+## 𝐌𝐑: JANIYAH
 
 
 
@@ -137,8 +137,3 @@ Recommended WhatsApp👇
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 </div>
 
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
