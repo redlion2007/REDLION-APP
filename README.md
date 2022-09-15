@@ -126,7 +126,7 @@ Recommended WhatsApp👇
 |   Stalker     |       😎      |
 |   Random Text     |       😎     |
 |   Random Image     |       😎     |
-|   Creator     |       😎      |
+|   Creator     |       😊      |
 
 </details>
 
